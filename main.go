@@ -16,6 +16,7 @@ func main() {
 		autofunc.InfoNetwork()
 		fmt.Println("\n========================================================================")
 		autofunc.FaisDodo()
+		// Je test github ici
 	}
 
 }
